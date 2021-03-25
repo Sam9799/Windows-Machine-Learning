@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/microsoft/Windows-Machine-Learning)
+
 | Sample/Tool | Status |
 |---------|--------------|
 | All Samples | [![Build Status](https://microsoft.visualstudio.com/WindowsAI/_apis/build/status/WinML/Samples/Github%20Public%20Samples%20Build%20RS5?branchName=master)](https://microsoft.visualstudio.com/WindowsAI/_build/latest?definitionId=39302&branchName=master) |
